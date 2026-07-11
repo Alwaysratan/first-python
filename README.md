@@ -1,3 +1,3 @@
 # first-python
 python in jupyter notebook
-i started it from skreatch
+today i added list and tuple
